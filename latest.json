@@ -1,4 +1,7 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/weeghman/ai-subscription-usage/releases/latest"
+  "version": "1.9.0",
+  "url": "https://github.com/weeghman/ai-subscription-usage/releases/latest",
+  "downloadURL": "https://github.com/weeghman/ai-subscription-usage-appcast/releases/download/v1.9.0/ai-subscription-usage-1.9.0.zip",
+  "sha256": "eb84a9b67af4d4935f145f1f52ec80a88446fd79002769b95b3ec1d87d9df320",
+  "minimumSystemVersion": "13.0"
 }
