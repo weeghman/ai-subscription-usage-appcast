@@ -1,7 +1,7 @@
 {
-  "version": "1.28.0",
-  "url": "https://github.com/weeghman/ai-subscription-usage-appcast/releases/tag/v1.28.0",
-  "downloadURL": "https://github.com/weeghman/ai-subscription-usage-appcast/releases/download/v1.28.0/ai-subscription-usage-1.28.0.zip",
-  "sha256": "43b6a4456231694496f544974f8a61b168b4cfee2dba4957cdb03d4629ccfeab",
+  "version": "1.29.1",
+  "url": "https://github.com/weeghman/ai-subscription-usage-appcast/releases/tag/v1.29.1",
+  "downloadURL": "https://github.com/weeghman/ai-subscription-usage-appcast/releases/download/v1.29.1/ai-subscription-usage-1.29.1.zip",
+  "sha256": "5888beb54737b3cc0647f90df6b20d5de01090ac452950d1b355054cda393eda",
   "minimumSystemVersion": "13.0"
 }
